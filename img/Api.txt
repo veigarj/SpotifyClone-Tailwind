@@ -1,0 +1,5 @@
+api weathermap
+a20e3bc6cc4debc504f962e9903ab5fc
+
+102409
+806434
